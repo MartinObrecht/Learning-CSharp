@@ -1,0 +1,6 @@
+C:\Users\marti\source\repos\1-PrimeiroProjeto\CriandoVariaveisPontoFlutuante\bin\Debug\CriandoVariaveisPontoFlutuante.exe.config
+C:\Users\marti\source\repos\1-PrimeiroProjeto\CriandoVariaveisPontoFlutuante\bin\Debug\CriandoVariaveisPontoFlutuante.exe
+C:\Users\marti\source\repos\1-PrimeiroProjeto\CriandoVariaveisPontoFlutuante\bin\Debug\CriandoVariaveisPontoFlutuante.pdb
+C:\Users\marti\source\repos\1-PrimeiroProjeto\CriandoVariaveisPontoFlutuante\obj\Debug\3-CriandoVariaveisPontoFlutuante.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\1-PrimeiroProjeto\CriandoVariaveisPontoFlutuante\obj\Debug\CriandoVariaveisPontoFlutuante.exe
+C:\Users\marti\source\repos\1-PrimeiroProjeto\CriandoVariaveisPontoFlutuante\obj\Debug\CriandoVariaveisPontoFlutuante.pdb

@@ -1,0 +1,7 @@
+C:\Users\marti\source\repos\1-PrimeiroProjeto\ConversãoEOutrosTiposNumericos\bin\Debug\ConversãoEOutrosTiposNumericos.exe.config
+C:\Users\marti\source\repos\1-PrimeiroProjeto\ConversãoEOutrosTiposNumericos\bin\Debug\ConversãoEOutrosTiposNumericos.exe
+C:\Users\marti\source\repos\1-PrimeiroProjeto\ConversãoEOutrosTiposNumericos\bin\Debug\ConversãoEOutrosTiposNumericos.pdb
+C:\Users\marti\source\repos\1-PrimeiroProjeto\ConversãoEOutrosTiposNumericos\obj\Debug\4-ConversãoEOutrosTiposNumericos.csprojAssemblyReference.cache
+C:\Users\marti\source\repos\1-PrimeiroProjeto\ConversãoEOutrosTiposNumericos\obj\Debug\4-ConversãoEOutrosTiposNumericos.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\1-PrimeiroProjeto\ConversãoEOutrosTiposNumericos\obj\Debug\ConversãoEOutrosTiposNumericos.exe
+C:\Users\marti\source\repos\1-PrimeiroProjeto\ConversãoEOutrosTiposNumericos\obj\Debug\ConversãoEOutrosTiposNumericos.pdb
