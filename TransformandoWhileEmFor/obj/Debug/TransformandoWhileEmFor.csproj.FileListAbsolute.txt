@@ -1,0 +1,7 @@
+C:\Users\marti\source\repos\1-PrimeiroProjeto\TransformandoWhileEmFor\bin\Debug\TransformandoWhileEmFor.exe.config
+C:\Users\marti\source\repos\1-PrimeiroProjeto\TransformandoWhileEmFor\bin\Debug\TransformandoWhileEmFor.exe
+C:\Users\marti\source\repos\1-PrimeiroProjeto\TransformandoWhileEmFor\bin\Debug\TransformandoWhileEmFor.pdb
+C:\Users\marti\source\repos\1-PrimeiroProjeto\TransformandoWhileEmFor\obj\Debug\TransformandoWhileEmFor.csprojAssemblyReference.cache
+C:\Users\marti\source\repos\1-PrimeiroProjeto\TransformandoWhileEmFor\obj\Debug\TransformandoWhileEmFor.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\1-PrimeiroProjeto\TransformandoWhileEmFor\obj\Debug\TransformandoWhileEmFor.exe
+C:\Users\marti\source\repos\1-PrimeiroProjeto\TransformandoWhileEmFor\obj\Debug\TransformandoWhileEmFor.pdb

@@ -1,0 +1,7 @@
+C:\Users\marti\source\repos\1-PrimeiroProjeto\DesafioFatorial\bin\Debug\DesafioFatorial.exe.config
+C:\Users\marti\source\repos\1-PrimeiroProjeto\DesafioFatorial\bin\Debug\DesafioFatorial.exe
+C:\Users\marti\source\repos\1-PrimeiroProjeto\DesafioFatorial\bin\Debug\DesafioFatorial.pdb
+C:\Users\marti\source\repos\1-PrimeiroProjeto\DesafioFatorial\obj\Debug\DesafioFatorial.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\1-PrimeiroProjeto\DesafioFatorial\obj\Debug\DesafioFatorial.exe
+C:\Users\marti\source\repos\1-PrimeiroProjeto\DesafioFatorial\obj\Debug\DesafioFatorial.pdb
+C:\Users\marti\source\repos\1-PrimeiroProjeto\DesafioFatorial\obj\Debug\DesafioFatorial.csprojAssemblyReference.cache

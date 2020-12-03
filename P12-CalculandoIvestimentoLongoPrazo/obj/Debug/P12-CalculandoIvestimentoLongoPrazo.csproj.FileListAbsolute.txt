@@ -1,0 +1,7 @@
+C:\Users\marti\source\repos\1-PrimeiroProjeto\P12-CalculandoIvestimentoLongoPrazo\bin\Debug\P12-CalculandoIvestimentoLongoPrazo.exe.config
+C:\Users\marti\source\repos\1-PrimeiroProjeto\P12-CalculandoIvestimentoLongoPrazo\bin\Debug\P12-CalculandoIvestimentoLongoPrazo.exe
+C:\Users\marti\source\repos\1-PrimeiroProjeto\P12-CalculandoIvestimentoLongoPrazo\bin\Debug\P12-CalculandoIvestimentoLongoPrazo.pdb
+C:\Users\marti\source\repos\1-PrimeiroProjeto\P12-CalculandoIvestimentoLongoPrazo\obj\Debug\P12-CalculandoIvestimentoLongoPrazo.csprojAssemblyReference.cache
+C:\Users\marti\source\repos\1-PrimeiroProjeto\P12-CalculandoIvestimentoLongoPrazo\obj\Debug\P12-CalculandoIvestimentoLongoPrazo.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\1-PrimeiroProjeto\P12-CalculandoIvestimentoLongoPrazo\obj\Debug\P12-CalculandoIvestimentoLongoPrazo.exe
+C:\Users\marti\source\repos\1-PrimeiroProjeto\P12-CalculandoIvestimentoLongoPrazo\obj\Debug\P12-CalculandoIvestimentoLongoPrazo.pdb

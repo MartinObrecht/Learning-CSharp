@@ -1,0 +1,6 @@
+C:\Users\marti\source\repos\1-PrimeiroProjeto\DesafioMultiplosDe3\bin\Debug\DesafioMultiplosDe3.exe.config
+C:\Users\marti\source\repos\1-PrimeiroProjeto\DesafioMultiplosDe3\bin\Debug\DesafioMultiplosDe3.exe
+C:\Users\marti\source\repos\1-PrimeiroProjeto\DesafioMultiplosDe3\bin\Debug\DesafioMultiplosDe3.pdb
+C:\Users\marti\source\repos\1-PrimeiroProjeto\DesafioMultiplosDe3\obj\Debug\DesafioMultiplosDe3.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\1-PrimeiroProjeto\DesafioMultiplosDe3\obj\Debug\DesafioMultiplosDe3.exe
+C:\Users\marti\source\repos\1-PrimeiroProjeto\DesafioMultiplosDe3\obj\Debug\DesafioMultiplosDe3.pdb

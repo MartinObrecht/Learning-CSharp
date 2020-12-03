@@ -1,0 +1,7 @@
+C:\Users\marti\source\repos\1-PrimeiroProjeto\Exercicio01ControleDeFluxoComIF\bin\Debug\Exercicio01ControleDeFluxoComIF.exe.config
+C:\Users\marti\source\repos\1-PrimeiroProjeto\Exercicio01ControleDeFluxoComIF\bin\Debug\Exercicio01ControleDeFluxoComIF.exe
+C:\Users\marti\source\repos\1-PrimeiroProjeto\Exercicio01ControleDeFluxoComIF\bin\Debug\Exercicio01ControleDeFluxoComIF.pdb
+C:\Users\marti\source\repos\1-PrimeiroProjeto\Exercicio01ControleDeFluxoComIF\obj\Debug\Exercicio01ControleDeFluxoComIF.csprojAssemblyReference.cache
+C:\Users\marti\source\repos\1-PrimeiroProjeto\Exercicio01ControleDeFluxoComIF\obj\Debug\Exercicio01ControleDeFluxoComIF.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\1-PrimeiroProjeto\Exercicio01ControleDeFluxoComIF\obj\Debug\Exercicio01ControleDeFluxoComIF.exe
+C:\Users\marti\source\repos\1-PrimeiroProjeto\Exercicio01ControleDeFluxoComIF\obj\Debug\Exercicio01ControleDeFluxoComIF.pdb

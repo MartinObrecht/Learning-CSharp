@@ -1,0 +1,6 @@
+C:\Users\marti\source\repos\1-PrimeiroProjeto\P11 - CalculaPopupanca2\bin\Debug\P11 - CalculaPopupanca2.exe.config
+C:\Users\marti\source\repos\1-PrimeiroProjeto\P11 - CalculaPopupanca2\bin\Debug\P11 - CalculaPopupanca2.exe
+C:\Users\marti\source\repos\1-PrimeiroProjeto\P11 - CalculaPopupanca2\bin\Debug\P11 - CalculaPopupanca2.pdb
+C:\Users\marti\source\repos\1-PrimeiroProjeto\P11 - CalculaPopupanca2\obj\Debug\P11 - CalculaPopupanca2.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\1-PrimeiroProjeto\P11 - CalculaPopupanca2\obj\Debug\P11 - CalculaPopupanca2.exe
+C:\Users\marti\source\repos\1-PrimeiroProjeto\P11 - CalculaPopupanca2\obj\Debug\P11 - CalculaPopupanca2.pdb
